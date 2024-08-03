@@ -485,7 +485,7 @@ const changeWallWeight = () => {
 						</ul>
 						<br></br><br></br><br></br>
 						<span>
-							Made by Harshit Sureka & Kartik Verma & Vineet Agarwal
+							Made by Abhishek Pal
 						</span>
 						<br></br>
 				</div>
