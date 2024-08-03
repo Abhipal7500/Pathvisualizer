@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Pathvisualizer/static/css/main.3cdf8c35.chunk.css",
+    "main.js": "/Pathvisualizer/static/js/main.18963fae.chunk.js",
+    "main.js.map": "/Pathvisualizer/static/js/main.18963fae.chunk.js.map",
+    "runtime-main.js": "/Pathvisualizer/static/js/runtime-main.1607dd2c.js",
+    "runtime-main.js.map": "/Pathvisualizer/static/js/runtime-main.1607dd2c.js.map",
+    "static/js/2.83ce2994.chunk.js": "/Pathvisualizer/static/js/2.83ce2994.chunk.js",
+    "static/js/2.83ce2994.chunk.js.map": "/Pathvisualizer/static/js/2.83ce2994.chunk.js.map",
+    "index.html": "/Pathvisualizer/index.html",
+    "static/css/main.3cdf8c35.chunk.css.map": "/Pathvisualizer/static/css/main.3cdf8c35.chunk.css.map",
+    "static/js/2.83ce2994.chunk.js.LICENSE.txt": "/Pathvisualizer/static/js/2.83ce2994.chunk.js.LICENSE.txt",
+    "static/media/Pathfind.css": "/Pathvisualizer/static/media/iconmonstr-target-4.ef530e72.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1607dd2c.js",
+    "static/js/2.83ce2994.chunk.js",
+    "static/css/main.3cdf8c35.chunk.css",
+    "static/js/main.18963fae.chunk.js"
+  ]
+}
